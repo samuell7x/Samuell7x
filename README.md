@@ -1,79 +1,44 @@
+
+
 # 👩🏻‍💻 Samuell
+<div align="center">
+  
+  <b>`プ ロ グ ラ マ`</b>
+  <samp>
 
 **`Desenvolvedor Back-End iniciante`**
 
-Me chamo Samuel, tenho 19 anos e sou natural da Paraiba. Concluí o ensino médio no ano de 2024, Atualmente, estou cursando Ciencia da computacao na UNIPE. Sou apaixonado por tecnologia
+Me chamo Samuel, tenho 19 anos e sou natural da Paraiba. Concluí o ensino médio no ano de 2024, Atualmente, estou cursando Ciencia da computacao na UNIPE. Sou apaixonado por tecnologia<h1 align="center"></h1>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/ywsamuell/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="200" src="https://i.pinimg.com/736x/6b/e2/75/6be2756c3bb028e1cabd63dbdb4a6911.jpg"  />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=samuell7x&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samuell7x/samuell7x/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samuell7x/samuell7x/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/samuell7x/samuell7x/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
-   <img 
-   align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
- />
-          
-
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
- 
-    
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=samuell7x&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuell7x&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+###
